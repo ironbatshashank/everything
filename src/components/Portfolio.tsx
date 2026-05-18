@@ -63,8 +63,8 @@ export default function Portfolio({ onBack }: PortfolioProps) {
           <h2 className="text-3xl font-light mb-8 pb-2 border-b border-white/10">Work Experience</h2>
           <div className="space-y-10">
             <div>
-              <h3 className="text-xl font-normal mb-1">Automation engineer</h3>
-              <p className="text-white/60 text-sm font-light mb-4">Robert Gordon University | May 2024 - Present | Edinburgh, Scotland</p>
+              <h3 className="text-xl font-normal mb-1">Product Manager</h3>
+              <p className="text-white/60 text-sm font-light mb-4">Innovate UK | May 2024 - Present | Edinburgh, Scotland</p>
               <ul className="space-y-2 text-white/70 font-light">
                 <li className="flex space-x-3"><span className="text-white/40 mt-1">•</span><span>Performed customer reviews for problem identification, and developed marketing strategies around technical product modules</span></li>
                 <li className="flex space-x-3"><span className="text-white/40 mt-1">•</span><span>Created a marketing and business plan, achieving sales with the whole project and individual modules as add-ons</span></li>
